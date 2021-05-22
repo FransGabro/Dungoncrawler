@@ -1,0 +1,14 @@
+{
+    "Character": [
+        {
+            "name": "Thief",
+            "klass": "tjuv",
+            "initative": 7,
+            "endurance": 5,
+            "attack": 5,
+            "agility": 7,
+            "special": "Critical hit",
+            "coins": 0
+        }
+    ]
+}
